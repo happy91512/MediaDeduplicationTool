@@ -49,7 +49,7 @@ pip install opencv-python Pillow imagehash tqdm
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/MediaDeduplicationTool.git
+   git clone https://github.com/happy91512/MediaDeduplicationTool.git
    cd MediaDeduplicationTool
    ```
 2. **Run the script**:
